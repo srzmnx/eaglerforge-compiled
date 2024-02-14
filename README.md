@@ -27,22 +27,6 @@
 
 ## Getting Started:
 
-### To compile the latest version of the client, on Windows:
-
-1. Make sure you have at least Java 11 installed and added to your PATH
-2. Download (clone) this repository to your computer
-3. Double click `CompileLatestClient.bat`, a GUI resembling a classic windows installer should open
-4. Follow the steps shown to you in the new window to finish compiling
-
-### To compile the latest version of the client, on Linux/macOS:
-
-1. Make sure you have at least Java 11 installed
-2. Download (clone) this repository to your computer
-3. Open a terminal in the folder the repository was cloned to
-4. Type `chmod +x CompileLatestClient.sh` and hit enter
-5. Type `./CompileLatestClient.sh` and hit enter, a GUI resembling a classic windows installer should open
-6. Follow the steps shown to you in the new window to finish compiling
-
 ## Singleplayer
 
 As of January 2024, singleplayer and shared worlds have been added to EaglercraftX 1.8.
