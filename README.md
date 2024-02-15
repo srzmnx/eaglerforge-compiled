@@ -1,4 +1,4 @@
-# Eaglerforge v1
+# THIS IS REGULARLY UPDATED.
 
 ### Play Minecraft 1.8 in your browser, supports singleplayer and multiplayer with a javascript modding api
 
