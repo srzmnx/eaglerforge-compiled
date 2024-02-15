@@ -6,7 +6,8 @@
 
 
 ### eaglerforge mods menu screenshot
-![image](https://github.com/eaglerforge/EaglerForge/assets/95340057/55bc9ccd-4385-4533-a4d6-fea483d16ae3)
+![image](https://github.com/srzmnx/eaglerforge-compiled/assets/83734653/1985db59-ed58-4c6c-84cf-51c3ff996fa9)
+
 
 
 ### This repository contains:
